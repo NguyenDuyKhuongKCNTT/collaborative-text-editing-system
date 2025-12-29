@@ -42,7 +42,7 @@ Hệ thống hoạt động dựa trên mô hình **Client-Server** kết hợp 
 Mở Terminal (hoặc CMD/PowerShell) và chạy lệnh:
 
 ```bash
-git clone [https://github.com/NguyenDuyKhuongKCNTT/collaborative-text-editing-system.git](https://github.com/NguyenDuyKhuongKCNTT/collaborative-text-editing-system.git)
+git clone https://github.com/NguyenDuyKhuongKCNTT/collaborative-text-editing-system.git
 cd collaborative-text-editing-system
 3. Khởi chạy hệ thống
 Bước 1: Chạy Server (Máy chủ) Server phải được bật trước để lắng nghe kết nối.
