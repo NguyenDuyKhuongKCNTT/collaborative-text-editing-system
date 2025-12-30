@@ -77,6 +77,7 @@ Thử xóa hoặc sửa nội dung từ bất kỳ phía nào, bên còn lại s
 collaborative-text-editing-system/
 ├── 📄 server.py      # Mã nguồn Server (Socket, Multithreading, Broadcast)
 ├── 📄 client.py      # Mã nguồn Client (GUI, Event Handling)
+├── 📄 shared.txt     # Nội dung văn bản cộng tác
 └── 📄 README.md      # Tài liệu hướng dẫn này
 👨‍💻 Tác giả
 Nguyễn Duy Khương, Hồ Viết Sơn Tùng, Phạm Công Trường --- Dự án phục vụ mục đích học tập và nghiên cứu môn Các Hệ thống Phân tán.
